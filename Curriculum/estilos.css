@@ -1,0 +1,77 @@
+body{
+    background-color: #FEFAEC;
+    padding-bottom: 20px;
+}
+#contenedor{
+    background-color: #F9FFFF;
+    width: 900px;
+    margin: 0 auto;
+    padding: 0 20px 0 0;
+    color: #444;
+    border: 1px solid #D4EEEE;
+    border-radius: 10px;
+    box-shadow: 10px 10px 15px #999;
+    overflow: hidden;
+}
+#fotoPerfil{
+    float:right;
+    margin: 40px 10px 0 0;
+    border-radius: 5px;
+}
+#lateral{
+    float: left;
+   background-color: #444;
+   width: 60px;
+   height: 1240px;
+   margin-right: 20px;
+   padding-top: 50px;
+   border-right: 7px solid #D4EEEE;
+   border-radius: 10px 0 0 10px;
+}
+#datos{
+    padding-left: 120px;
+    font-size: 14px;
+    font-family: "Homer Simpson", cursive;
+}
+.contenido{
+    background-color: #F9FFFF;
+    margin: 0 0 10px 80px;
+    border-radius: 7px;
+    border: 1px solid #499ec8;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+h1 {
+    color:#5BB3DF;
+    font-family: fantasy;
+}
+h3{
+    background-color: #499ec8;
+    margin-top: 0px;
+    padding-left: 10px;
+    color: white;
+    border: 1px solid #499ec8;
+    border-radius: 5px 5px 0 0;
+    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+dt {
+    margin-left: 30px;
+    color: black;
+    font-weight: 600;
+}
+li{
+    list-style: none;
+}
+td{
+    text-align: center;
+}
+.circle{
+    color:black;
+    list-style: disc;
+    font-weight: 600;
+}
+.informatica{
+    float: left;
+    margin: 0 50px 0 20px;
+}
